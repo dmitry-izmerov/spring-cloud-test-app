@@ -1,4 +1,4 @@
-package ru.demi.services.reservation.domain;
+package ru.demi.services.business.reservation.domain;
 
 import lombok.Getter;
 import lombok.Setter;

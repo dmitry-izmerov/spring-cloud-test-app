@@ -1,9 +1,9 @@
-package ru.demi.services.reservation.client;
+package ru.demi.services.business.reservation.client;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
-import ru.demi.services.reservation.domain.Room;
+import ru.demi.services.business.reservation.domain.Room;
 
 import java.util.List;
 

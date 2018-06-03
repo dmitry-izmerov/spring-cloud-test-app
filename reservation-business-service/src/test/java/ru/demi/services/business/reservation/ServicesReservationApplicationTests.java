@@ -1,4 +1,4 @@
-package ru.demi.services.reservation;
+package ru.demi.services.business.reservation;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
