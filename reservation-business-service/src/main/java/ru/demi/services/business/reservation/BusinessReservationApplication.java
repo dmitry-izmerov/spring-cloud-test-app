@@ -20,7 +20,7 @@ import static springfox.documentation.builders.PathSelectors.any;
 @EnableFeignClients
 @EnableDiscoveryClient
 @SpringBootApplication
-public class ServicesReservationApplication {
+public class BusinessReservationApplication {
 
     @Bean
     public Docket api(){
@@ -50,6 +50,6 @@ public class ServicesReservationApplication {
     }
 
     public static void main(String[] args) {
-        SpringApplication.run(ServicesReservationApplication.class, args);
+        SpringApplication.run(BusinessReservationApplication.class, args);
     }
 }
