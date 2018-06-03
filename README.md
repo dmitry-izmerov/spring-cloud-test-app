@@ -1,0 +1,1 @@
+## Spring cloud test application for getting initial experience with microservices on java.
